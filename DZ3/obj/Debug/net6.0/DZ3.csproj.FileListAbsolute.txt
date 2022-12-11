@@ -1,0 +1,15 @@
+D:\GeekBrains\Miron\Sem4\DZ3\bin\Debug\net6.0\DZ3.exe
+D:\GeekBrains\Miron\Sem4\DZ3\bin\Debug\net6.0\DZ3.deps.json
+D:\GeekBrains\Miron\Sem4\DZ3\bin\Debug\net6.0\DZ3.runtimeconfig.json
+D:\GeekBrains\Miron\Sem4\DZ3\bin\Debug\net6.0\DZ3.dll
+D:\GeekBrains\Miron\Sem4\DZ3\bin\Debug\net6.0\DZ3.pdb
+D:\GeekBrains\Miron\Sem4\DZ3\obj\Debug\net6.0\DZ3.csproj.AssemblyReference.cache
+D:\GeekBrains\Miron\Sem4\DZ3\obj\Debug\net6.0\DZ3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Miron\Sem4\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfoInputs.cache
+D:\GeekBrains\Miron\Sem4\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfo.cs
+D:\GeekBrains\Miron\Sem4\DZ3\obj\Debug\net6.0\DZ3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Miron\Sem4\DZ3\obj\Debug\net6.0\DZ3.dll
+D:\GeekBrains\Miron\Sem4\DZ3\obj\Debug\net6.0\refint\DZ3.dll
+D:\GeekBrains\Miron\Sem4\DZ3\obj\Debug\net6.0\DZ3.pdb
+D:\GeekBrains\Miron\Sem4\DZ3\obj\Debug\net6.0\DZ3.genruntimeconfig.cache
+D:\GeekBrains\Miron\Sem4\DZ3\obj\Debug\net6.0\ref\DZ3.dll
